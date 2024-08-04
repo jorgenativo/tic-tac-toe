@@ -1,0 +1,14 @@
+body{
+ background-color: beige;
+}
+#tablero{
+ background-color: bisque;
+ width: 500px;
+ height: 500px;
+ margin: auto;
+ text-align: center;
+}
+
+.casilla{
+ background-color: gold;
+}
